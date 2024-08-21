@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS3,Chrome 127.0.0.0,,,21-08-2024 11:18:13,21-08-2024 11:18:15,2.223s,PASSED
+,,,,,,,
+Test Cases/TC3,Chrome 127.0.0.0,,,21-08-2024 11:18:13,21-08-2024 11:18:15,2.171s,PASSED
+"openBrowser(""https://google.com"")",Chrome 127.0.0.0,,,21-08-2024 11:18:13,21-08-2024 11:18:15,2.080s,PASSED

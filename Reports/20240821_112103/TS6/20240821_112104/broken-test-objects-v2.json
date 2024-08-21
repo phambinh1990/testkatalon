@@ -8,7 +8,7 @@
       "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Updating location…\u0027])[1]/following::div[4]",
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_123nhadatviet - Google Search/div_Not now_neighbor.png"
+      "pathToScreenshot": "Reports/20240821_112103/TS6/20240821_112104/Object Repository/Page_123nhadatviet - Google Search/div_Not now_neighbor.png"
     }
   ]
 }

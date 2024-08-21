@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS5" time="2.188" tests="1" failures="0" errors="0">
+   <testsuite name="TS5" tests="1" failures="0" errors="0" time="2.188" skipped="0" timestamp="21-08-2024T11:18:55" hostname="phamvanbinh - localhost" id="Test Suites/TS5">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="/Users/phamvanbinh/Documents/testkatalon/testkatalon/Reports/20240821_111852/TS5/20240821_111852"/>
+         <property name="logFiles" value="/Users/phamvanbinh/Documents/testkatalon/testkatalon/Reports/20240821_111852/TS5/20240821_111852/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="phamvanbinh - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="9.6.0.217"/>
+         <property name="browser" value="Chrome 127.0.0.0"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="475b2dfe52cbbc07ed64b1dd3339a9c6"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/TC5" time="2.136" classname="Test Cases/TC5" status="PASSED">
+         <system-out><![CDATA[21-08-2024T11:18:55 - [TEST_CASE][PASSED] - Test Cases/TC5: Test Cases/TC5
+
+21-08-2024T11:18:56 - [TEST_STEP][PASSED] - openBrowser("https://google.com"): Browser is opened with url: 'https://google.com'
+
+21-08-2024T11:18:56 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-08-2024T11:18:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-08-2024T11:18:58 - [MESSAGE][PASSED] - Browser is opened with url: 'https://google.com']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[21-08-2024T11:18:55 - [TEST_SUITE][PASSED] - TS5: Test Cases/TC5]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

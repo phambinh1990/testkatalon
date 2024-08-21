@@ -13,8 +13,8 @@ import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 
 Map<String, String> suiteProperties = new HashMap<String, String>();
 
-suiteProperties.put('id', 'Test Suites/TS1')
-suiteProperties.put('name', 'TS1')
+suiteProperties.put('id', 'Test Suites/TS6')
+suiteProperties.put('name', 'TS6')
 suiteProperties.put('description', '')
 suiteProperties.put('rerunTestFailImmediately', 'true')
 suiteProperties.put('retryCount', '3')
@@ -28,8 +28,8 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.t
 
 
 
-RunConfiguration.setExecutionSettingFile("/Users/phamvanbinh/Documents/testkatalon/testkatalon/Reports/20240821_104507/TS1/20240821_104508/execution.properties")
+RunConfiguration.setExecutionSettingFile("/Users/phamvanbinh/Documents/testkatalon/testkatalon/Reports/20240821_112103/TS6/20240821_112104/execution.properties")
 
 TestCaseMain.beforeStart()
 
-TestCaseMain.startTestSuite('Test Suites/TS1', suiteProperties, new File("/Users/phamvanbinh/Documents/testkatalon/testkatalon/Reports/20240821_104507/TS1/20240821_104508/testCaseBinding"))
+TestCaseMain.startTestSuite('Test Suites/TS6', suiteProperties, new File("/Users/phamvanbinh/Documents/testkatalon/testkatalon/Reports/20240821_112103/TS6/20240821_112104/testCaseBinding"))

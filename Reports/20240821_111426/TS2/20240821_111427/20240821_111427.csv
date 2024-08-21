@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS2,Chrome 127.0.0.0,,,21-08-2024 11:14:31,21-08-2024 11:14:59,28.430s,PASSED
+,,,,,,,
+Test Cases/TC2,Chrome 127.0.0.0,,,21-08-2024 11:14:31,21-08-2024 11:14:59,28.380s,PASSED
+"openBrowser("""")",Chrome 127.0.0.0,,,21-08-2024 11:14:31,21-08-2024 11:14:32,1.149s,PASSED
+"navigateToUrl(""https://www.google.com.vn/"")",Chrome 127.0.0.0,,,21-08-2024 11:14:32,21-08-2024 11:14:33,0.981s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_Sam Landsberger""))",Chrome 127.0.0.0,,,21-08-2024 11:14:33,21-08-2024 11:14:50,16.556s,PASSED
+"click(findTestObject(""Object Repository/Page_sam landsberger - Google Search/div_Images""))",Chrome 127.0.0.0,,,21-08-2024 11:14:50,21-08-2024 11:14:55,5.062s,PASSED
+"click(findTestObject(""Object Repository/Page_sam landsberger - Google Search/span_Wikipedia""))",Chrome 127.0.0.0,,,21-08-2024 11:14:55,21-08-2024 11:14:59,4.431s,PASSED
+closeBrowser(),Chrome 127.0.0.0,,,21-08-2024 11:14:59,21-08-2024 11:14:59,0.102s,PASSED

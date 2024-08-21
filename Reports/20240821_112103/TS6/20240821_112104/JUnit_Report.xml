@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS6" time="40.158" tests="1" failures="0" errors="0">
+   <testsuite name="TS6" tests="1" failures="0" errors="0" time="40.158" skipped="0" timestamp="21-08-2024T11:21:08" hostname="phamvanbinh - localhost" id="Test Suites/TS6">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="/Users/phamvanbinh/Documents/testkatalon/testkatalon/Reports/20240821_112103/TS6/20240821_112104"/>
+         <property name="logFiles" value="/Users/phamvanbinh/Documents/testkatalon/testkatalon/Reports/20240821_112103/TS6/20240821_112104/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="phamvanbinh - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="9.6.0.217"/>
+         <property name="browser" value="Chrome 127.0.0.0"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="d0e7d4abce97f5366ac3755049cb1fda"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/TC6" time="40.1" classname="Test Cases/TC6" status="PASSED">
+         <system-out><![CDATA[21-08-2024T11:21:08 - [TEST_CASE][PASSED] - Test Cases/TC6: Test Cases/TC6
+
+21-08-2024T11:21:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+21-08-2024T11:21:08 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-08-2024T11:21:08 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-08-2024T11:21:10 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+21-08-2024T11:21:10 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com.vn/"): Navigate to 'https://www.google.com.vn/' successfully
+
+21-08-2024T11:21:11 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com.vn/' successfully
+
+21-08-2024T11:21:11 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Google/textarea_Sign in_q"), "123"): Text '123' is set on object 'Object Repository/Page_Google/textarea_Sign in_q'
+
+21-08-2024T11:21:11 - [MESSAGE][PASSED] - Text '123' is set on object 'Object Repository/Page_Google/textarea_Sign in_q'
+
+21-08-2024T11:21:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/svg")): Object: 'Object Repository/Page_Google/svg' is clicked on
+
+21-08-2024T11:21:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/svg' is clicked on
+
+21-08-2024T11:21:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/svg")): Object: 'Object Repository/Page_Google/svg' is clicked on
+
+21-08-2024T11:21:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/svg' is clicked on
+
+21-08-2024T11:21:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/svg")): Object: 'Object Repository/Page_Google/svg' is clicked on
+
+21-08-2024T11:21:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/svg' is clicked on
+
+21-08-2024T11:21:13 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/Page_Google/svg_1")): Object: 'Object Repository/Page_Google/svg_1' is double clicked on
+
+21-08-2024T11:21:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/svg_1' is double clicked on
+
+21-08-2024T11:21:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/svg")): Object: 'Object Repository/Page_Google/svg' is clicked on
+
+21-08-2024T11:21:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/svg' is clicked on
+
+21-08-2024T11:21:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/svg")): Object: 'Object Repository/Page_Google/svg' is clicked on
+
+21-08-2024T11:21:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/svg' is clicked on
+
+21-08-2024T11:21:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/svg")): Object: 'Object Repository/Page_Google/svg' is clicked on
+
+21-08-2024T11:21:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/svg' is clicked on
+
+21-08-2024T11:21:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/svg")): Object: 'Object Repository/Page_Google/svg' is clicked on
+
+21-08-2024T11:21:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/svg' is clicked on
+
+21-08-2024T11:21:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/svg")): Object: 'Object Repository/Page_Google/svg' is clicked on
+
+21-08-2024T11:21:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/svg' is clicked on
+
+21-08-2024T11:21:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/b_nhadatviet")): Object: 'Object Repository/Page_Google/b_nhadatviet' is clicked on
+
+21-08-2024T11:21:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/b_nhadatviet' is clicked on
+
+21-08-2024T11:21:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_123nhadatviet - Google Search/div_Not now")): Object: 'Object Repository/Page_123nhadatviet - Google Search/div_Not now' is clicked on
+
+21-08-2024T11:21:47 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='_72rFZrXANr7f2roP0L2EwAc_32']/div[2]/span/div/div[2]/div[3]/g-raised-button/div/div'. Please recheck the objects properties to make sure the desired element is located. 
+
+21-08-2024T11:21:47 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_123nhadatviet - Google Search/div_Not now'. Try using Self-healing.
+
+21-08-2024T11:21:48 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[@id='_72rFZrXANr7f2roP0L2EwAc_32']/div[2]/span/div/div[2]/div[3]/g-raised-button/div/div'.
+
+21-08-2024T11:21:48 - [MESSAGE][INFO] - [SELF-HEALING] Working Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Updating location…'])[1]/following::div[4]'.
+
+21-08-2024T11:21:48 - [MESSAGE][INFO] - [SELF-HEALING] Screenshot: /Users/phamvanbinh/Documents/testkatalon/testkatalon/Reports/Self-healing/Object Repository/Page_123nhadatviet - Google Search/div_Not now_neighbor.png
+
+21-08-2024T11:21:48 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_123nhadatviet - Google Search/div_Not now' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Updating location…'])[1]/following::div[4]'.
+
+21-08-2024T11:21:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_123nhadatviet - Google Search/div_Not now' is clicked on
+
+21-08-2024T11:21:48 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+21-08-2024T11:21:48 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[21-08-2024T11:21:08 - [TEST_SUITE][PASSED] - TS6: Test Cases/TC6]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
