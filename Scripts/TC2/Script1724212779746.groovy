@@ -17,15 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://www.google.com.vn/')
-
-WebUI.click(findTestObject('Object Repository/Page_Google/span_Sam Landsberger'))
-
-WebUI.click(findTestObject('Object Repository/Page_sam landsberger - Google Search/div_Images'))
-
-WebUI.click(findTestObject('Object Repository/Page_sam landsberger - Google Search/span_Wikipedia'))
+WebUI.openBrowser('https://google.com.vn')
 
 WebUI.closeBrowser()
 

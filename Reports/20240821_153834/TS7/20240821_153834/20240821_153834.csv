@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS7,TestCloud - Linux - Firefox 124.0,,,21-08-2024 15:38:38,21-08-2024 15:39:03,25.251s,PASSED
+,,,,,,,
+Test Cases/TC7,TestCloud - Linux - Firefox 124.0,,,21-08-2024 15:38:38,21-08-2024 15:39:03,25.209s,PASSED
+"openBrowser(""https://google.com"")",TestCloud - Linux - Firefox 124.0,,,21-08-2024 15:38:38,21-08-2024 15:38:59,21.320s,PASSED
+closeBrowser(),TestCloud - Linux - Firefox 124.0,,,21-08-2024 15:38:59,21-08-2024 15:39:03,3.804s,PASSED

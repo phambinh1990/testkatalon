@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS10" time="2.747" tests="1" failures="0" errors="0">
+   <testsuite name="TS10" tests="1" failures="0" errors="0" time="2.747" skipped="0" timestamp="21-08-2024T17:29:17" hostname="phamvanbinh - localhost" id="Test Suites/TS10">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="/Users/phamvanbinh/Documents/testkatalon/testkatalon/Reports/20240821_172914/TS10/20240821_172914"/>
+         <property name="logFiles" value="/Users/phamvanbinh/Documents/testkatalon/testkatalon/Reports/20240821_172914/TS10/20240821_172914/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="phamvanbinh - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="9.6.0.217"/>
+         <property name="browser" value="Chrome 127.0.0.0"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="e3b1a9d5f4e430df84ac395dc883dc2b"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/TC10" time="2.698" classname="Test Cases/TC10" status="PASSED">
+         <system-out><![CDATA[21-08-2024T17:29:17 - [TEST_CASE][PASSED] - Test Cases/TC10: Test Cases/TC10
+
+21-08-2024T17:29:17 - [TEST_STEP][PASSED] - openBrowser("https://google.com"): Browser is opened with url: 'https://google.com'
+
+21-08-2024T17:29:17 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-08-2024T17:29:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-08-2024T17:29:20 - [MESSAGE][PASSED] - Browser is opened with url: 'https://google.com'
+
+21-08-2024T17:29:20 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+21-08-2024T17:29:20 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[21-08-2024T17:29:17 - [TEST_SUITE][PASSED] - TS10: Test Cases/TC10]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

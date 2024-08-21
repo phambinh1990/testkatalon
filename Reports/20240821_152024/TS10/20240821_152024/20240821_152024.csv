@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS10,Chrome 127.0.0.0,,,21-08-2024 15:20:28,21-08-2024 15:21:12,44.427s,PASSED
+,,,,,,,
+Test Cases/TC10,Chrome 127.0.0.0,,,21-08-2024 15:20:28,21-08-2024 15:21:12,44.338s,PASSED
+"openBrowser("""")",Chrome 127.0.0.0,,,21-08-2024 15:20:28,21-08-2024 15:20:29,1.351s,PASSED
+"navigateToUrl(""https://www.google.com.vn/"")",Chrome 127.0.0.0,,,21-08-2024 15:20:29,21-08-2024 15:20:31,2.054s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea_Sign in_q""), ""123"")",Chrome 127.0.0.0,,,21-08-2024 15:20:31,21-08-2024 15:20:32,0.897s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/svg""))",Chrome 127.0.0.0,,,21-08-2024 15:20:32,21-08-2024 15:20:33,0.577s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/svg""))",Chrome 127.0.0.0,,,21-08-2024 15:20:33,21-08-2024 15:20:33,0.468s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/svg""))",Chrome 127.0.0.0,,,21-08-2024 15:20:33,21-08-2024 15:20:34,0.473s,PASSED
+"doubleClick(findTestObject(""Object Repository/Page_Google/svg_1""))",Chrome 127.0.0.0,,,21-08-2024 15:20:34,21-08-2024 15:20:34,0.588s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/svg""))",Chrome 127.0.0.0,,,21-08-2024 15:20:34,21-08-2024 15:20:35,0.469s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/svg""))",Chrome 127.0.0.0,,,21-08-2024 15:20:35,21-08-2024 15:20:35,0.471s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/svg""))",Chrome 127.0.0.0,,,21-08-2024 15:20:35,21-08-2024 15:20:36,0.470s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/svg""))",Chrome 127.0.0.0,,,21-08-2024 15:20:36,21-08-2024 15:20:36,0.465s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/svg""))",Chrome 127.0.0.0,,,21-08-2024 15:20:36,21-08-2024 15:20:37,0.478s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/b_nhadatviet""))",Chrome 127.0.0.0,,,21-08-2024 15:20:37,21-08-2024 15:20:37,0.585s,PASSED
+"click(findTestObject(""Object Repository/Page_123nhadatviet - Google Search/div_Not now""))",Chrome 127.0.0.0,,,21-08-2024 15:20:37,21-08-2024 15:21:12,34.740s,PASSED
+closeBrowser(),Chrome 127.0.0.0,,,21-08-2024 15:21:12,21-08-2024 15:21:12,0.095s,PASSED

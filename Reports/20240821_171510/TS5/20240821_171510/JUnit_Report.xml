@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS5" time="87.437" tests="1" failures="0" errors="0">
+   <testsuite name="TS5" tests="1" failures="0" errors="0" time="87.437" skipped="0" timestamp="21-08-2024T17:15:15" hostname="phamvanbinh - localhost" id="Test Suites/TS5">
+      <properties>
+         <property name="deviceName"/>
+         <property name="devicePlatform" value="WINDOWS"/>
+         <property name="logFolder" value="/Users/phamvanbinh/Documents/testkatalon/testkatalon/Reports/20240821_171510/TS5/20240821_171510"/>
+         <property name="logFiles" value="/Users/phamvanbinh/Documents/testkatalon/testkatalon/Reports/20240821_171510/TS5/20240821_171510/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="phamvanbinh - localhost"/>
+         <property name="remoteDriverUrl" value="testcloud.katalon.com/hub"/>
+         <property name="desiredCapabilities" value="{&#xa;  &quot;timeouts&quot;: {&#xa;    &quot;implicit&quot;: 0,&#xa;    &quot;pageLoad&quot;: 300000,&#xa;    &quot;script&quot;: 30000&#xa;  },&#xa;  &quot;se:cdpEnabled&quot;: false,&#xa;  &quot;platform&quot;: &quot;WINDOWS&quot;,&#xa;  &quot;goog:chromeOptions&quot;: {&#xa;    &quot;debuggerAddress&quot;: &quot;localhost:9225&quot;&#xa;  },&#xa;  &quot;webauthn:extension:credBlob&quot;: true,&#xa;  &quot;acceptInsecureCerts&quot;: false,&#xa;  &quot;browserVersion&quot;: &quot;127.0.0.0&quot;,&#xa;  &quot;fedcm:accounts&quot;: true,&#xa;  &quot;kt:requestId&quot;: &quot;1b763bc2-8442-469f-92b0-0eb1cc5a14d6&quot;,&#xa;  &quot;browserName&quot;: &quot;chrome&quot;,&#xa;  &quot;javascriptEnabled&quot;: true,&#xa;  &quot;katalon:option&quot;: {&#xa;    &quot;apiKey&quot;: &quot;2c85ac0d-4a75-4f84-a489-f2345d804db6&quot;,&#xa;    &quot;tunnelMetadataId&quot;: &quot;f36affb1-581d-4209-b8b8-fb36e7d41cbc&quot;,&#xa;    &quot;executionSessionId&quot;: &quot;1b763bc2-8442-469f-92b0-0eb1cc5a14d6&quot;,&#xa;    &quot;userId&quot;: 1571139,&#xa;    &quot;organizationId&quot;: &quot;1616791&quot;,&#xa;    &quot;executionId&quot;: &quot;506dc1d5-1eae-48ba-9aec-a5f971e64167&quot;,&#xa;    &quot;runFromTestCloud&quot;: true,&#xa;    &quot;tenant&quot;: &quot;TestOps&quot;,&#xa;    &quot;usingTunnel&quot;: true,&#xa;    &quot;group&quot;: &quot;07149af1-b19d-477e-9111-a839de2c6fe1&quot;&#xa;  },&#xa;  &quot;platformName&quot;: &quot;WINDOWS&quot;,&#xa;  &quot;setWindowRect&quot;: true,&#xa;  &quot;webauthn:extension:largeBlob&quot;: true,&#xa;  &quot;networkConnectionEnabled&quot;: false,&#xa;  &quot;chrome&quot;: {&#xa;    &quot;chromedriverVersion&quot;: &quot;127.0.6533.57 (d4459446bf8a5dbb9ba3b4a3675f9b4361323538-refs/branch-heads/6533@{#1561})&quot;,&#xa;    &quot;userDataDir&quot;: &quot;C:\\Windows\\SystemTemp\\scoped_dir7192_1458205861&quot;&#xa;  },&#xa;  &quot;kt:rid&quot;: &quot;1b763bc2-8442-469f-92b0-0eb1cc5a14d6&quot;,&#xa;  &quot;pageLoadStrategy&quot;: &quot;normal&quot;,&#xa;  &quot;unhandledPromptBehavior&quot;: &quot;dismiss and notify&quot;,&#xa;  &quot;strictFileInteractability&quot;: false,&#xa;  &quot;***:loadExtension&quot;: [&#xa;    &quot;https://prod-magicleap-user-files-us-east-1-v1.s3.amazonaws.com/extensions/orgId-691279/SmartWait.zip&quot;&#xa;  ],&#xa;  &quot;se:bidiEnabled&quot;: false,&#xa;  &quot;proxy&quot;: {&#xa;    &quot;proxyType&quot;: &quot;UNSPECIFIED&quot;,&#xa;    &quot;autodetect&quot;: false&#xa;  },&#xa;  &quot;webauthn:extension:minPinLength&quot;: true,&#xa;  &quot;webauthn:extension:prf&quot;: true,&#xa;  &quot;webauthn:virtualAuthenticators&quot;: true&#xa;}"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="remoteOS" value="Windows"/>
+         <property name="katalonVersion" value="9.6.0.217"/>
+         <property name="browser" value="Chrome 127.0.0.0"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="edc23ceeb3f65d860ad3f7ecd46b2497"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/TC5" time="87.385" classname="Test Cases/TC5" status="PASSED">
+         <system-out><![CDATA[21-08-2024T17:15:15 - [TEST_CASE][PASSED] - Test Cases/TC5: Test Cases/TC5
+
+21-08-2024T17:15:15 - [TEST_STEP][PASSED] - openBrowser("https://google.com"): Browser is opened with url: 'https://google.com'
+
+21-08-2024T17:15:15 - [MESSAGE][INFO] - User set preference: ['os', 'windows']
+
+21-08-2024T17:15:15 - [MESSAGE][INFO] - User set preference: ['browserVersion', '127']
+
+21-08-2024T17:15:15 - [MESSAGE][INFO] - User set preference: ['browserName', 'chrome']
+
+21-08-2024T17:15:15 - [MESSAGE][INFO] - User set preference: ['katalon:option', '{organizationId=1616791, usingTunnel=true}']
+
+21-08-2024T17:15:15 - [MESSAGE][INFO] - Connecting to remote web server 'testcloud.katalon.com/hub' with type 'Selenium'
+
+21-08-2024T17:15:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-08-2024T17:16:42 - [MESSAGE][PASSED] - Browser is opened with url: 'https://google.com']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[21-08-2024T17:15:15 - [TEST_SUITE][PASSED] - TS5: Test Cases/TC5]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_123nhadatviet - Google Search/div_Not now",
+      "brokenLocator": "//div[@id\u003d\u0027_72rFZrXANr7f2roP0L2EwAc_32\u0027]/div[2]/span/div/div[2]/div[3]/g-raised-button/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Updating location…\u0027])[1]/following::div[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240821_152021/TS10/20240821_152022/Object Repository/Page_123nhadatviet - Google Search/div_Not now_neighbor.png"
+    }
+  ]
+}

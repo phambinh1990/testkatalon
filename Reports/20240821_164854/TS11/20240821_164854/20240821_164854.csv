@@ -1,0 +1,39 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS11,Chrome 127.0.0.0,,,21-08-2024 16:48:57,21-08-2024 16:51:53,2m - 55.856s,FAILED
+,,,,,,,
+Test Cases/TC8,Chrome 127.0.0.0,,,21-08-2024 16:48:57,21-08-2024 16:49:04,6.503s,PASSED
+"openBrowser(""https://google.com"")",Chrome 127.0.0.0,,,21-08-2024 16:48:57,21-08-2024 16:49:00,2.617s,PASSED
+closeBrowser(),Chrome 127.0.0.0,,,21-08-2024 16:49:00,21-08-2024 16:49:04,3.809s,PASSED
+,,,,,,,
+Test Cases/TC9,Chrome 127.0.0.0,,,21-08-2024 16:49:04,21-08-2024 16:49:07,3.142s,PASSED
+"openBrowser(""https://google.com"")",Chrome 127.0.0.0,,,21-08-2024 16:49:04,21-08-2024 16:49:05,1.606s,PASSED
+closeBrowser(),Chrome 127.0.0.0,,,21-08-2024 16:49:05,21-08-2024 16:49:07,1.528s,PASSED
+,,,,,,,
+Test Cases/TC10,Chrome 127.0.0.0,,,21-08-2024 16:49:07,21-08-2024 16:49:09,2.423s,PASSED
+"openBrowser(""https://google.com"")",Chrome 127.0.0.0,,,21-08-2024 16:49:07,21-08-2024 16:49:09,2.321s,PASSED
+closeBrowser(),Chrome 127.0.0.0,,,21-08-2024 16:49:09,21-08-2024 16:49:09,0.086s,PASSED
+,,,,,,,
+Test Cases/TC6,Chrome 127.0.0.0,,,21-08-2024 16:49:09,21-08-2024 16:49:12,2.624s,PASSED
+"openBrowser(""https://google.com"")",Chrome 127.0.0.0,,,21-08-2024 16:49:09,21-08-2024 16:49:12,2.526s,PASSED
+closeBrowser(),Chrome 127.0.0.0,,,21-08-2024 16:49:12,21-08-2024 16:49:12,0.088s,PASSED
+,,,,,,,
+Test Cases/TC2,Chrome 127.0.0.0,,,21-08-2024 16:51:07,21-08-2024 16:51:44,36.989s,FAILED
+"openBrowser("""")",Chrome 127.0.0.0,,,21-08-2024 16:51:07,21-08-2024 16:51:07,0.670s,PASSED
+"navigateToUrl(""https://www.google.com.vn/"")",Chrome 127.0.0.0,,,21-08-2024 16:51:07,21-08-2024 16:51:08,1.056s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_Sam Landsberger""))",Chrome 127.0.0.0,,,21-08-2024 16:51:08,21-08-2024 16:51:44,35.250s,FAILED
+,,,,,,,
+Test Cases/TC1,Chrome 127.0.0.0,,,21-08-2024 16:51:44,21-08-2024 16:51:45,1.692s,PASSED
+"openBrowser(""https://google.com"")",Chrome 127.0.0.0,,,21-08-2024 16:51:44,21-08-2024 16:51:45,1.673s,PASSED
+,,,,,,,
+Test Cases/TC5,Chrome 127.0.0.0,,,21-08-2024 16:51:45,21-08-2024 16:51:48,2.153s,PASSED
+"openBrowser(""https://google.com"")",Chrome 127.0.0.0,,,21-08-2024 16:51:45,21-08-2024 16:51:48,2.145s,PASSED
+,,,,,,,
+Test Cases/TC4,Chrome 127.0.0.0,,,21-08-2024 16:51:48,21-08-2024 16:51:49,1.959s,PASSED
+"openBrowser(""https://google.com"")",Chrome 127.0.0.0,,,21-08-2024 16:51:48,21-08-2024 16:51:49,1.951s,PASSED
+,,,,,,,
+Test Cases/TC7,Chrome 127.0.0.0,,,21-08-2024 16:51:49,21-08-2024 16:51:51,1.764s,PASSED
+"openBrowser(""https://google.com"")",Chrome 127.0.0.0,,,21-08-2024 16:51:49,21-08-2024 16:51:51,1.670s,PASSED
+closeBrowser(),Chrome 127.0.0.0,,,21-08-2024 16:51:51,21-08-2024 16:51:51,0.084s,PASSED
+,,,,,,,
+Test Cases/TC3,Chrome 127.0.0.0,,,21-08-2024 16:51:51,21-08-2024 16:51:53,1.630s,PASSED
+"openBrowser(""https://google.com"")",Chrome 127.0.0.0,,,21-08-2024 16:51:51,21-08-2024 16:51:53,1.626s,PASSED

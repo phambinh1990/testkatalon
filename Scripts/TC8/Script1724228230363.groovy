@@ -17,33 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://www.google.com.vn/')
-
-WebUI.setText(findTestObject('Object Repository/Page_Google/textarea_Sign in_q'), '123')
-
-WebUI.click(findTestObject('Object Repository/Page_Google/svg'))
-
-WebUI.click(findTestObject('Object Repository/Page_Google/svg'))
-
-WebUI.click(findTestObject('Object Repository/Page_Google/svg'))
-
-WebUI.doubleClick(findTestObject('Object Repository/Page_Google/svg_1'))
-
-WebUI.click(findTestObject('Object Repository/Page_Google/svg'))
-
-WebUI.click(findTestObject('Object Repository/Page_Google/svg'))
-
-WebUI.click(findTestObject('Object Repository/Page_Google/svg'))
-
-WebUI.click(findTestObject('Object Repository/Page_Google/svg'))
-
-WebUI.click(findTestObject('Object Repository/Page_Google/svg'))
-
-WebUI.click(findTestObject('Object Repository/Page_Google/b_nhadatviet'))
-
-WebUI.click(findTestObject('Object Repository/Page_123nhadatviet - Google Search/div_Not now'))
+WebUI.openBrowser('https://google.com')
 
 WebUI.closeBrowser()
 
