@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kinh nghim hc IELTS</name>
+   <tag></tag>
+   <elementGuidId>53ccc672-ae85-4692-9018-a86226938e06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-3622']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-3622 > a.woodmart-nav-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Main navigation&quot;i >> internal:role=link[name=&quot;Kinh nghiệm học IELTS&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>41414b4b-d632-41c7-a3a5-8b0f50185336</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://acet.edu.vn/kinh-nghiem-hoc-ielts/</value>
+      <webElementGuid>b8025e34-3a83-48ab-8cbe-40c3639c9866</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woodmart-nav-link</value>
+      <webElementGuid>e5cb4806-2a0f-446f-8cb9-930ff78095e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kinh nghiệm học IELTS</value>
+      <webElementGuid>03d309fe-c973-4fb3-85af-5303dda3daa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-3622&quot;)/a[@class=&quot;woodmart-nav-link&quot;]</value>
+      <webElementGuid>26c8edca-778a-4e28-ad6b-6c5384252126</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-3622']/a</value>
+      <webElementGuid>1c3264ca-6f0e-44d0-8a37-5c7bae40fbe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Kinh nghiệm học IELTS')]</value>
+      <webElementGuid>0e9d8c2b-31d6-4e85-af76-4b31a1356920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kiểm tra trình độ Tiếng Anh'])[1]/following::a[1]</value>
+      <webElementGuid>a2bbce5d-b1ba-4648-8bf3-bc236f7b520d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My IELTS Classroom'])[1]/following::a[2]</value>
+      <webElementGuid>28e103df-3bb7-428e-ab9f-7ebf07968df5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDP IELTS &amp; Du Học'])[1]/preceding::a[1]</value>
+      <webElementGuid>73357d58-3a96-4a09-bce1-f46b810cb58a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thi IELTS tại IDP'])[1]/preceding::a[2]</value>
+      <webElementGuid>d362e373-5328-4355-bf28-75486cfb051c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kinh nghiệm học IELTS']/parent::*</value>
+      <webElementGuid>6f0ba1db-2636-45b6-a05d-ecf49c3e6105</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://acet.edu.vn/kinh-nghiem-hoc-ielts/')]</value>
+      <webElementGuid>44883ea6-08aa-489d-87da-666ad818a1be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div/div/ul/li[2]/a</value>
+      <webElementGuid>72bd690f-a213-4632-ac28-d834c2f6b6cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://acet.edu.vn/kinh-nghiem-hoc-ielts/' and (text() = 'Kinh nghiệm học IELTS' or . = 'Kinh nghiệm học IELTS')]</value>
+      <webElementGuid>5b762a23-1b73-43c0-83d8-641e17a201d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Trung tm ACET</name>
+   <tag></tag>
+   <elementGuidId>6088cf87-9b3a-4a7b-a47b-d1e51c732f93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-3236']/div/section/div/div[2]/div/div/div[2]/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dvls_maps_header_left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Trung tâm ACET&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>76ba99b1-eac2-4215-99ba-cb643ac55417</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dvls_maps_header_left</value>
+      <webElementGuid>6f7f4b71-3eee-4beb-ad63-0d2cd8b9e0f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Trung tâm ACET</value>
+      <webElementGuid>9658046c-5ad9-4b1d-bb54-997db9a3df4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-3236&quot;)/div[@class=&quot;entry-content&quot;]/section[@class=&quot;wpb-content-wrapper&quot;]/div[@class=&quot;vc_row wpb_row vc_row-fluid&quot;]/div[@class=&quot;wpb_column vc_column_container vc_col-sm-10&quot;]/div[@class=&quot;vc_column-inner&quot;]/div[@class=&quot;wpb_wrapper&quot;]/div[@class=&quot;wpb_raw_code wpb_content_element wpb_raw_html&quot;]/div[@class=&quot;wpb_wrapper&quot;]/div[@class=&quot;dvls_maps_wrap&quot;]/div[@class=&quot;dvls_maps_container&quot;]/div[@class=&quot;dvls_maps_row dvls_maps_header&quot;]/div[@class=&quot;dvls_maps_header_left&quot;]</value>
+      <webElementGuid>161c5971-1c4f-42b8-baf3-39930ea3a143</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-3236']/div/section/div/div[2]/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>dfb179c3-feb2-453f-8e29-703096b2203c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liên hệ'])[3]/following::div[19]</value>
+      <webElementGuid>b20df428-1bb0-4763-b0c1-b71159b07612</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::div[19]</value>
+      <webElementGuid>0aa2ce1a-7d3d-4b77-ae96-07238fe1045e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACET VÕ THỊ SÁU'])[1]/preceding::div[7]</value>
+      <webElementGuid>2f901a19-3fdf-4c36-aa49-f4ad48da114e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Trung tâm ACET']/parent::*</value>
+      <webElementGuid>32ab40e3-e9aa-4fdc-b353-942206d17c86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>a1f47467-0025-453b-a6f2-e9859f5cd64e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Trung tâm ACET' or . = 'Trung tâm ACET')]</value>
+      <webElementGuid>f89f766f-893c-41f2-bb35-caa1a04f36ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

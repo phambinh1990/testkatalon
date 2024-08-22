@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_u i</name>
+   <tag></tag>
+   <elementGuidId>665d5e22-7d76-49f0-a7f5-76a478a17f68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-3226']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-3226 > a.woodmart-nav-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Main navigation&quot;i >> internal:role=link[name=&quot;Ưu đãi&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>732cbfa9-e260-453c-afd6-00d3fa1ca144</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://acet.edu.vn/uu-dai/</value>
+      <webElementGuid>9b4a9f99-e31d-4449-b0dc-d60b1850baea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woodmart-nav-link</value>
+      <webElementGuid>6c72fcdd-b4d7-4972-9a34-131550080ce8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ưu đãi</value>
+      <webElementGuid>93a8aa04-ad8d-4014-b052-764a1ae67107</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-3226&quot;)/a[@class=&quot;woodmart-nav-link&quot;]</value>
+      <webElementGuid>e48f3bff-5669-4e43-988e-16f212faa6cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-3226']/a</value>
+      <webElementGuid>af36f6c1-3372-453c-96a1-66b4462cb9e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Ưu đãi')]</value>
+      <webElementGuid>0a8a8835-1955-46f9-9319-fb440be108f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tin tức'])[1]/following::a[1]</value>
+      <webElementGuid>ca7c9c6d-892b-482d-b834-3fa17cba0fb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tin tức &amp; Sự kiện'])[1]/following::a[2]</value>
+      <webElementGuid>002c42b5-4c2d-4755-8ed4-8274bf99ca46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/preceding::a[1]</value>
+      <webElementGuid>31183abb-a815-4fc7-a3f8-575b52d3b089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sự kiện'])[1]/preceding::a[2]</value>
+      <webElementGuid>8e8e8239-9c77-43b3-a0fd-2907c771b57c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ưu đãi']/parent::*</value>
+      <webElementGuid>4007685a-ffad-400f-8cfb-f8ca61de48b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://acet.edu.vn/uu-dai/')]</value>
+      <webElementGuid>2436a6ee-78df-4945-8db7-0aea57cbf386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div/ul/li[2]/a</value>
+      <webElementGuid>a2d3c1d0-c6c5-472f-af85-2f6030eedb20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://acet.edu.vn/uu-dai/' and (text() = 'Ưu đãi' or . = 'Ưu đãi')]</value>
+      <webElementGuid>4cf73790-60cc-45ab-807b-72a7aada31c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

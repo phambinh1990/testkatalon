@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Professional Development</name>
+   <tag></tag>
+   <elementGuidId>12e6b753-b2c7-42ee-a9e5-0846b1e82e10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-54']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-54 > a.nav-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#menu-item-54 >> internal:role=link[name=&quot;Professional Development&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>00c6ef5f-dcc8-4908-b26e-5b3fcf7208a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Professional Development</value>
+      <webElementGuid>d061e219-7440-4ff8-b6dd-0b5c38fec796</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://neas.org.au/professional-development/</value>
+      <webElementGuid>8b840b17-682e-414b-9415-21cef272c7c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>f1d4808e-d2bd-4fff-ba17-680d5710cba9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Professional Development</value>
+      <webElementGuid>c742d289-8d86-47d1-8f28-4e3c20db1412</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-54&quot;)/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>a8d66022-4460-465f-bc75-94da2cfad0c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-54']/a</value>
+      <webElementGuid>7f28580c-0eef-4962-9901-ff43722e6e6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Professional Development')]</value>
+      <webElementGuid>b892dd9f-998f-405c-8945-b3e89ef16b6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality Assurance'])[1]/following::a[1]</value>
+      <webElementGuid>0dc5571e-4308-4f42-9727-e5f61c208812</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality ELT Professionals'])[1]/following::a[2]</value>
+      <webElementGuid>aa088df8-3b88-4d08-961c-1b26af71e813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resources'])[1]/preceding::a[1]</value>
+      <webElementGuid>ba4d9931-5d60-4839-b982-1d1b7a74ee43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='News'])[1]/preceding::a[2]</value>
+      <webElementGuid>fb567127-74a8-473c-a054-24f04d15a53c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Professional Development']/parent::*</value>
+      <webElementGuid>fd929082-fc25-4e53-a0a3-e2e1db1834e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://neas.org.au/professional-development/')]</value>
+      <webElementGuid>13e0af40-64ae-440c-ad54-02b7b397ef47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/nav/div/ul/li[2]/a</value>
+      <webElementGuid>ba799b68-695e-4ed1-b395-c9873bb74412</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Professional Development' and @href = 'https://neas.org.au/professional-development/' and (text() = 'Professional Development' or . = 'Professional Development')]</value>
+      <webElementGuid>a43e1c44-baee-4747-b8c2-ae7d6e59e4ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Quality Products  Services</name>
+   <tag></tag>
+   <elementGuidId>af49a913-cab3-4fdf-b8c4-d644285d235b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-23980']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-23980 > a.nav-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#menu-item-23980 >> internal:role=link[name=&quot;Quality Products &amp; Services&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e1b51675-7948-4a31-be60-be4289a0cffa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Quality Products &amp; Services</value>
+      <webElementGuid>af8f19f2-8158-43cf-9fa6-22773d15bae9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://neas.org.au/quality-products-services/</value>
+      <webElementGuid>af683819-c080-4218-acd6-8d3e28b73fc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>7e58c53f-b45f-45cc-8f46-1c53c4f167c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Quality Products &amp; Services</value>
+      <webElementGuid>42d87782-c2a4-4951-8a43-751fc7b349c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-23980&quot;)/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>30483947-21a2-4dea-b364-f67e01b05548</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-23980']/a</value>
+      <webElementGuid>8e9ec366-4449-4585-a15c-2a79f523b213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Quality Products &amp; Services')]</value>
+      <webElementGuid>338d8027-86fc-40c7-b7c6-999be1da737d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality Education Agents'])[1]/following::a[1]</value>
+      <webElementGuid>559a5949-5e2b-4b14-8546-1252a9a4eee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality Centres'])[1]/following::a[2]</value>
+      <webElementGuid>6bdfb5af-7c55-4cbb-b224-822006362053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality ELT Professionals'])[1]/preceding::a[1]</value>
+      <webElementGuid>2e1dbd7f-189a-40da-a527-83a6c7d8bee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality Assurance'])[1]/preceding::a[2]</value>
+      <webElementGuid>3a526c91-517f-48df-b13d-369c584ece11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Quality Products &amp; Services']/parent::*</value>
+      <webElementGuid>555f0457-c0c8-467d-8bfc-3206c69b12dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://neas.org.au/quality-products-services/')]</value>
+      <webElementGuid>c097b554-62c0-42ff-adff-f05e7422dc8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[3]/a</value>
+      <webElementGuid>297a4022-57e1-427f-9796-252a8cacd26e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Quality Products &amp; Services' and @href = 'https://neas.org.au/quality-products-services/' and (text() = 'Quality Products &amp; Services' or . = 'Quality Products &amp; Services')]</value>
+      <webElementGuid>311f730c-7fea-44db-b348-b7be8e09ef49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

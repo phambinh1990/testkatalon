@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_B ti liu luyn thi IELTS mu ca IDP tng _a385e1</name>
+   <tag></tag>
+   <elementGuidId>eaf2e40b-aa60-48cf-a6e5-0c88d3418a3c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='wd-5e0425a118824']/li[2]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > span.list-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Bộ tài liệu luyện thi IELTS mẫu của IDP tương đồng với bài thi IELTS thực tế&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>53f0bbef-8586-44ec-a9b9-da7f74895231</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-content</value>
+      <webElementGuid>16693406-155b-481b-92ab-c0a9d3382858</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bộ tài liệu luyện thi IELTS mẫu của IDP tương đồng với bài thi IELTS thực tế</value>
+      <webElementGuid>572bedc0-8e30-48a5-9380-39f6d2052918</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wd-5e0425a118824&quot;)/li[2]/span[@class=&quot;list-content&quot;]</value>
+      <webElementGuid>6c49eded-b5b1-475e-b4b3-e2e3c1dd137b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='wd-5e0425a118824']/li[2]/span[2]</value>
+      <webElementGuid>b0e4c255-ac63-480f-8b3f-920f2b3d52f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Làm quen với cấu trúc của bài thi IELTS'])[1]/following::span[2]</value>
+      <webElementGuid>357f4a84-a17e-4466-bec7-483cf298d858</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tại sao bạn nên tham khảo bộ tài liệu luyện thi IELTS miễn phí ?'])[1]/following::span[4]</value>
+      <webElementGuid>8da30f80-9534-42d8-b8d1-b2cef6f1de38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đánh giá chính xác năng lực hiện tại của bản thân để đưa ra chiến thuật luyện thi hợp lý'])[1]/preceding::span[2]</value>
+      <webElementGuid>a724a178-81eb-4bfd-a2ef-612c6d333479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dễ dàng đối chiếu và phân tích lỗi trong bài làm của bạn với đáp án chính thức'])[1]/preceding::span[4]</value>
+      <webElementGuid>9c6e9e15-7db8-4128-8bad-2bfd256981ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bộ tài liệu luyện thi IELTS mẫu của IDP tương đồng với bài thi IELTS thực tế']/parent::*</value>
+      <webElementGuid>5843f3b5-b807-4a99-b8a4-a430f2526d3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/span[2]</value>
+      <webElementGuid>b7ea5958-dd0e-48d2-b97e-0001ee30cab9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Bộ tài liệu luyện thi IELTS mẫu của IDP tương đồng với bài thi IELTS thực tế' or . = 'Bộ tài liệu luyện thi IELTS mẫu của IDP tương đồng với bài thi IELTS thực tế')]</value>
+      <webElementGuid>2219ea13-c3ec-4668-a197-2b6afe5341c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

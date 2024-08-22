@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS6,TestCloud - Windows - Chrome 127.0.0.0,,,22-08-2024 10:00:25,22-08-2024 10:01:25,59.371s,PASSED
+,,,,,,,
+Test Cases/TC6,TestCloud - Windows - Chrome 127.0.0.0,,,22-08-2024 10:00:25,22-08-2024 10:01:25,59.310s,PASSED
+"openBrowser(""https://google.com"")",TestCloud - Windows - Chrome 127.0.0.0,,,22-08-2024 10:00:25,22-08-2024 10:01:23,57.993s,PASSED
+closeBrowser(),TestCloud - Windows - Chrome 127.0.0.0,,,22-08-2024 10:01:23,22-08-2024 10:01:25,1.228s,PASSED

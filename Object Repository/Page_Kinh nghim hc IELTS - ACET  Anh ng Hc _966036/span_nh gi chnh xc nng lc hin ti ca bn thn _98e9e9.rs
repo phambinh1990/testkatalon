@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_nh gi chnh xc nng lc hin ti ca bn thn _98e9e9</name>
+   <tag></tag>
+   <elementGuidId>d13c25b0-1387-438a-9c9a-973111b994ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='wd-5e0425a118824']/li[3]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > span.list-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Đánh giá chính xác năng lực hiện tại của bản thân để đưa ra chiến thuật luyện th&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5f9c78f2-afab-4acb-a0fb-6291122e4eb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-content</value>
+      <webElementGuid>5cf68e81-d11c-4d53-99b8-af63a542620f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đánh giá chính xác năng lực hiện tại của bản thân để đưa ra chiến thuật luyện thi hợp lý</value>
+      <webElementGuid>3be9e87f-92e0-425d-92e6-839b91d5a27b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wd-5e0425a118824&quot;)/li[3]/span[@class=&quot;list-content&quot;]</value>
+      <webElementGuid>b8590a70-599a-451f-9e5a-6a7ea06d80dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='wd-5e0425a118824']/li[3]/span[2]</value>
+      <webElementGuid>223a1583-9677-45c5-94d6-89d57e5fb962</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bộ tài liệu luyện thi IELTS mẫu của IDP tương đồng với bài thi IELTS thực tế'])[1]/following::span[2]</value>
+      <webElementGuid>e4eadc47-7a8b-4ff2-8af9-d796c0333c87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Làm quen với cấu trúc của bài thi IELTS'])[1]/following::span[4]</value>
+      <webElementGuid>38366b4e-d315-4f77-a1dc-73285e092c15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dễ dàng đối chiếu và phân tích lỗi trong bài làm của bạn với đáp án chính thức'])[1]/preceding::span[2]</value>
+      <webElementGuid>27158a17-8b4c-4ed7-ae96-a3d9e34fdf4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TẢI NGAY'])[1]/preceding::span[3]</value>
+      <webElementGuid>f43911a7-3e92-4562-be4b-07e39e3e85b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đánh giá chính xác năng lực hiện tại của bản thân để đưa ra chiến thuật luyện thi hợp lý']/parent::*</value>
+      <webElementGuid>326775b1-fb45-4923-ae7f-3a732b185ea3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/span[2]</value>
+      <webElementGuid>cd654d9d-36c3-4b4d-8fe0-da5b8909ed62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Đánh giá chính xác năng lực hiện tại của bản thân để đưa ra chiến thuật luyện thi hợp lý' or . = 'Đánh giá chính xác năng lực hiện tại của bản thân để đưa ra chiến thuật luyện thi hợp lý')]</value>
+      <webElementGuid>a4ea1a83-a67c-47e6-b526-13c1b94d3ced</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Thi IELTS ti IDP</name>
+   <tag></tag>
+   <elementGuidId>11c89a98-dc6e-4460-97f1-c3b1787312c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-3232']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-3232 > a.woodmart-nav-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Main navigation&quot;i >> internal:role=link[name=&quot;Thi IELTS tại IDP&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d9e3efce-a70e-4a8d-a916-4361a8c784d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://acet.edu.vn/thi-ielts-tai-idp/</value>
+      <webElementGuid>b9b2784a-139b-4fa1-97ea-28327df0dcbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woodmart-nav-link</value>
+      <webElementGuid>61b27ede-c87b-4be1-b491-a25f8e6b8363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thi IELTS tại IDP</value>
+      <webElementGuid>c2467cc5-1b93-4199-aeff-030fcab57f2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-3232&quot;)/a[@class=&quot;woodmart-nav-link&quot;]</value>
+      <webElementGuid>01853f29-d1b5-4cdd-97aa-7f946212e34c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-3232']/a</value>
+      <webElementGuid>9bb3516c-b174-48c1-a685-93c12799bc98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Thi IELTS tại IDP')]</value>
+      <webElementGuid>1da9c258-1f25-45fa-87ab-e98eed3240d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDP IELTS &amp; Du Học'])[1]/following::a[1]</value>
+      <webElementGuid>3be2b318-290f-4b50-b8a3-28e26c915903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kinh nghiệm học IELTS'])[1]/following::a[2]</value>
+      <webElementGuid>e711c707-670e-446d-9352-b45a5884e906</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDP tư vấn du học'])[1]/preceding::a[1]</value>
+      <webElementGuid>ff689dfc-8a6b-482a-b5e3-78f4fb1a3d7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tuyển dụng'])[1]/preceding::a[2]</value>
+      <webElementGuid>3d56cace-5d8b-4786-b2d4-5dbabc1fab48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thi IELTS tại IDP']/parent::*</value>
+      <webElementGuid>4819dce2-3d9f-43a5-8aff-25f74e2dc3bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://acet.edu.vn/thi-ielts-tai-idp/')]</value>
+      <webElementGuid>a5ae01bc-3d07-4799-8815-63483e2ec9a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/div/div/ul/li/a</value>
+      <webElementGuid>95346ff5-3908-4f73-9721-2f994cb9c0a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://acet.edu.vn/thi-ielts-tai-idp/' and (text() = 'Thi IELTS tại IDP' or . = 'Thi IELTS tại IDP')]</value>
+      <webElementGuid>7aafe837-dc32-4fee-9248-cab7f4f4b365</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

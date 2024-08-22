@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS6,TestCloud - Linux - Chrome 124.0.0.0,,,22-08-2024 10:00:41,22-08-2024 10:01:02,20.300s,PASSED
+,,,,,,,
+Test Cases/TC6,TestCloud - Linux - Chrome 124.0.0.0,,,22-08-2024 10:00:41,22-08-2024 10:01:02,20.249s,PASSED
+"openBrowser(""https://google.com"")",TestCloud - Linux - Chrome 124.0.0.0,,,22-08-2024 10:00:42,22-08-2024 10:01:00,18.732s,PASSED
+closeBrowser(),TestCloud - Linux - Chrome 124.0.0.0,,,22-08-2024 10:01:00,22-08-2024 10:01:02,1.429s,PASSED

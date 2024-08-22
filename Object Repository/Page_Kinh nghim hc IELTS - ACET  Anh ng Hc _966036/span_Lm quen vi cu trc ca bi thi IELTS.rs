@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Lm quen vi cu trc ca bi thi IELTS</name>
+   <tag></tag>
+   <elementGuidId>4d227f8a-836b-455f-a4ac-1f7dc96f24c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='wd-5e0425a118824']/li/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.list-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Làm quen với cấu trúc của bài thi IELTS&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9cd0f1f6-8502-435e-8ad0-ab9445d5dabd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-content</value>
+      <webElementGuid>1c0d6bab-0185-48d8-a4ca-4d6a53cfd277</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Làm quen với cấu trúc của bài thi IELTS</value>
+      <webElementGuid>4d8fe709-a27c-457e-8f00-b7d4c131d881</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wd-5e0425a118824&quot;)/li[1]/span[@class=&quot;list-content&quot;]</value>
+      <webElementGuid>7c8044a7-85d6-46a9-98d6-8268a2e94be0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='wd-5e0425a118824']/li/span[2]</value>
+      <webElementGuid>4135bc42-3741-46d1-96e7-fe7b106bca98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tại sao bạn nên tham khảo bộ tài liệu luyện thi IELTS miễn phí ?'])[1]/following::span[2]</value>
+      <webElementGuid>8926e406-1335-46c5-b5a4-95878025c1c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MIỄN PHÍ'])[1]/following::span[2]</value>
+      <webElementGuid>4b7a2613-12b6-4d66-99bf-3be2783b3e1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bộ tài liệu luyện thi IELTS mẫu của IDP tương đồng với bài thi IELTS thực tế'])[1]/preceding::span[2]</value>
+      <webElementGuid>2fe5d53c-e96e-45be-ad1b-5a6be871f642</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đánh giá chính xác năng lực hiện tại của bản thân để đưa ra chiến thuật luyện thi hợp lý'])[1]/preceding::span[4]</value>
+      <webElementGuid>1bd0485a-19d4-43e7-9633-6936eb288fca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Làm quen với cấu trúc của bài thi IELTS']/parent::*</value>
+      <webElementGuid>da903d6a-87a3-4e60-96e5-e3d8006730ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/span[2]</value>
+      <webElementGuid>9df4819d-efe1-4d82-b99b-b2e55ad030fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Làm quen với cấu trúc của bài thi IELTS' or . = 'Làm quen với cấu trúc của bài thi IELTS')]</value>
+      <webElementGuid>1471d9b1-33da-4531-916c-82e3c7dbe7e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

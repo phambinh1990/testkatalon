@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Anh Ng Hc Thut</name>
+   <tag></tag>
+   <elementGuidId>449f1c9e-ff19-4e97-ad11-c26c8924d1c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-3477']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-3477 > a.woodmart-nav-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Main navigation&quot;i >> internal:role=link[name=&quot;Anh Ngữ Học Thuật&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a5666579-4c6f-422d-82cd-f69b9ec650eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://acet.edu.vn/chuong-trinh-anh-ngu-hoc-thuat/</value>
+      <webElementGuid>c121237c-67a6-4397-b707-b81ce83873e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woodmart-nav-link</value>
+      <webElementGuid>a30fcd8b-a696-441a-9620-9398bc0be17e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anh Ngữ Học Thuật</value>
+      <webElementGuid>0435538d-bbd5-4a60-aca3-373118698b48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-3477&quot;)/a[@class=&quot;woodmart-nav-link&quot;]</value>
+      <webElementGuid>29a9f83f-649c-43c1-9b61-e3886ee324ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-3477']/a</value>
+      <webElementGuid>d662021f-201c-4325-a481-409527d111d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Anh Ngữ Học Thuật')])[2]</value>
+      <webElementGuid>60486da1-db08-4c73-bc67-74622f4f36bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chương trình anh ngữ'])[1]/following::a[1]</value>
+      <webElementGuid>a829f2fe-d405-4a7f-961b-02d0593963f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chứng chỉ Quốc Tế'])[1]/following::a[2]</value>
+      <webElementGuid>abfd6cda-011f-4232-b7a6-c0a59add0375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Luyện thi IELTS'])[1]/preceding::a[1]</value>
+      <webElementGuid>1341910a-abe2-4e30-a0ca-2d2429aa1a4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anh ngữ học thuật THCS'])[1]/preceding::a[2]</value>
+      <webElementGuid>9a5a47ac-aab7-4cec-ae5d-d064484e6449</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://acet.edu.vn/chuong-trinh-anh-ngu-hoc-thuat/')]</value>
+      <webElementGuid>677a1494-b37e-43ff-94fd-795808a07796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/ul/li/a</value>
+      <webElementGuid>5022ca6a-6477-4a55-a0e5-72a05731b449</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://acet.edu.vn/chuong-trinh-anh-ngu-hoc-thuat/' and (text() = 'Anh Ngữ Học Thuật' or . = 'Anh Ngữ Học Thuật')]</value>
+      <webElementGuid>139c3ddf-785f-4278-82bf-0f0b34cedac0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

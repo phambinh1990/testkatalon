@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS7,Chrome 128.0.0.0,,,22-08-2024 09:02:22,22-08-2024 09:03:57,1m - 34.624s,PASSED
+,,,,,,,
+Test Cases/TC7,Chrome 128.0.0.0,,,22-08-2024 09:02:24,22-08-2024 09:03:57,1m - 32.666s,PASSED
+"openBrowser(""https://google.com"")",Chrome 128.0.0.0,,,22-08-2024 09:02:28,22-08-2024 09:03:56,1m - 28.051s,PASSED
+closeBrowser(),Chrome 128.0.0.0,,,22-08-2024 09:03:56,22-08-2024 09:03:57,0.919s,PASSED

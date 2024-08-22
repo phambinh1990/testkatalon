@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_Bi mi ng</name>
+   <tag></tag>
+   <elementGuidId>3d8379bf-9f48-49a2-8897-e7285be3517f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='woodmart-recent-posts-16']/h5</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h5.widget-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Bài mới đăng&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>f0438f96-c9f4-4ae5-8511-3a319e30b450</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>widget-title</value>
+      <webElementGuid>8f44ba27-d859-4351-94f4-c77571663c7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bài mới đăng</value>
+      <webElementGuid>ce921a4d-e1ed-427d-bd55-0210b67d6aba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;woodmart-recent-posts-16&quot;)/h5[@class=&quot;widget-title&quot;]</value>
+      <webElementGuid>0c68b5f6-20dd-415f-9ba7-eff1fd000ab2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='woodmart-recent-posts-16']/h5</value>
+      <webElementGuid>dbd4abaa-b74a-4325-9971-8a26f622a5d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Δ'])[1]/following::h5[1]</value>
+      <webElementGuid>e87bc01d-e2ed-4cbe-89a8-33a57652eb46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lưu tên của tôi, email, và trang web trong trình duyệt này cho lần bình luận kế tiếp của tôi.'])[1]/following::h5[1]</value>
+      <webElementGuid>3c901c85-9b6f-4e82-91dc-e57277359351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDP triển khai tính năng thi lại IELTS một kỹ năng tại Việt Nam'])[1]/preceding::h5[1]</value>
+      <webElementGuid>0ebd652a-9c33-4fab-b9c7-35e1b18020f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Comments'])[1]/preceding::h5[1]</value>
+      <webElementGuid>a11e271c-03fd-44ee-af5c-c713ab489c8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bài mới đăng']/parent::*</value>
+      <webElementGuid>345c7104-ea50-4074-a011-31f4bbb6aacf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5</value>
+      <webElementGuid>5adcc741-a108-4385-932a-3d32e0bb5d35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Bài mới đăng' or . = 'Bài mới đăng')]</value>
+      <webElementGuid>1fe9d7a4-f969-4093-b7f8-f67c754f6b1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

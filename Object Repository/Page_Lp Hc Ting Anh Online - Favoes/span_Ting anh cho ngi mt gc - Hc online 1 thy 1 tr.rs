@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ting anh cho ngi mt gc - Hc online 1 thy 1 tr</name>
+   <tag></tag>
+   <elementGuidId>1f6bce5d-ddf9-4b23-aa9e-a7d15a4b5b73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='e4']/div/div/div[3]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#e4 > div.i_.div.si32 > div.i_.div.si33 > div.i_.div.si49 > a.p_.si27.a > span.span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Tiếng anh cho người mất gốc - Học online 1 thầy 1 trò&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d9eff381-7460-40b0-ae5e-28647fabeacf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-lines</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>d7fb73f7-cfef-402b-a3b9-666fccd04a23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-truncate</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ecdcb3dc-429b-4c00-b71c-b473eaebfc99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fb2f12be-914f-4d24-95d4-83742809c5b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tiếng anh cho người mất gốc - Học online 1 thầy 1 trò</value>
+      <webElementGuid>04639141-f74c-4b21-aa4c-cae3e2ec10a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;e4&quot;)/div[@class=&quot;i_ div si32&quot;]/div[@class=&quot;i_ div si33&quot;]/div[@class=&quot;i_ div si49&quot;]/a[@class=&quot;p_ si27 a&quot;]/span[@class=&quot;span&quot;]</value>
+      <webElementGuid>75021ef8-879c-4652-946a-81207e94533d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Lp Hc Ting Anh Online - Favoes/iframe_Trang 1 ca khong 40.600.000 kt qu ch_46e361</value>
+      <webElementGuid>50066666-0f6f-49f7-8ce5-b45b36b658ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='e4']/div/div/div[3]/a/span</value>
+      <webElementGuid>d457927a-60a4-48c4-99c9-aac81d557252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='https://www.speakingeasily.com/'])[1]/following::span[1]</value>
+      <webElementGuid>dbd857a3-1b92-4916-8289-b0664b841bea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='speakingeasily.com'])[1]/following::span[1]</value>
+      <webElementGuid>e74841fa-86c3-41ec-b697-273b1e805534</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='cho người mất gốc -']/parent::*</value>
+      <webElementGuid>2362e5ba-3cf0-4cb1-bb47-d277f1c5d2cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[3]/a/span</value>
+      <webElementGuid>6202b62a-fd82-4ed8-87cb-57572b9da3d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tiếng anh cho người mất gốc - Học online 1 thầy 1 trò' or . = 'Tiếng anh cho người mất gốc - Học online 1 thầy 1 trò')]</value>
+      <webElementGuid>7c992173-de2d-40af-89b1-fcbd77cfe63d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Quality Assurance</name>
+   <tag></tag>
+   <elementGuidId>d252d21c-8847-425d-b6ee-d840ff56c659</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-56']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-56 > a.nav-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#menu-item-56 >> internal:role=link[name=&quot;Quality Assurance&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>65c00d9d-3df2-45a8-bcb1-326aff71e436</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Quality Assurance</value>
+      <webElementGuid>1fd8cfe0-27be-4ba2-ab3f-32f52928431a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://neas.org.au/quality-assurance/</value>
+      <webElementGuid>604be1dc-3e8e-42a2-be3e-2b11be029278</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>5c1729cd-14df-406b-bdc2-16b60393084f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Quality Assurance</value>
+      <webElementGuid>26b611fd-0633-4a11-92fd-ab386b3eb3a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-56&quot;)/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>148f47ac-9297-4605-b7f4-974f21efb0a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-56']/a</value>
+      <webElementGuid>d9a6fa53-b645-4c9d-9448-95dcf9785610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Quality Assurance')]</value>
+      <webElementGuid>9199afb1-5328-4b9e-ad9d-083760a96b9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality ELT Professionals'])[1]/following::a[1]</value>
+      <webElementGuid>b4b019c0-2c3f-4be3-b6ce-ed80d560a984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality Products &amp; Services'])[1]/following::a[2]</value>
+      <webElementGuid>75990cb8-9744-42f8-aa96-1b7effd02feb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Professional Development'])[1]/preceding::a[1]</value>
+      <webElementGuid>25edbf8a-fbe5-47f4-8005-40ba8b19611e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resources'])[1]/preceding::a[2]</value>
+      <webElementGuid>b22450a3-e483-4e03-8efb-ffd6af66b22c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Quality Assurance']/parent::*</value>
+      <webElementGuid>11694fac-8e94-42d9-a0c3-b0319449f475</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://neas.org.au/quality-assurance/')]</value>
+      <webElementGuid>4cfd37c2-38ac-4c64-843e-fe00cd715c9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/nav/div/ul/li/a</value>
+      <webElementGuid>d46293b7-c7ce-4962-bb26-2068f31cedfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Quality Assurance' and @href = 'https://neas.org.au/quality-assurance/' and (text() = 'Quality Assurance' or . = 'Quality Assurance')]</value>
+      <webElementGuid>54f373e9-86cf-4f14-a393-85beda2f4512</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

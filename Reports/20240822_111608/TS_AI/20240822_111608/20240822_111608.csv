@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_AI,,,,22-08-2024 11:16:13,22-08-2024 11:16:14,0.626s,ERROR
+,,,,,,,
+Test Cases/TC_AI,,,,22-08-2024 11:16:14,22-08-2024 11:16:14,0.045s,ERROR
+10.6.130.132:6168,,,,22-08-2024 11:16:14,22-08-2024 11:16:14,0.008s,ERROR
